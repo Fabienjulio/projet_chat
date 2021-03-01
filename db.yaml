@@ -1,0 +1,4 @@
+mysql_host: 'localhost'
+mysql_user: 'fabien'
+mysql_password: 'Andromede512'
+mysql_db: 'plateforme_talky'
